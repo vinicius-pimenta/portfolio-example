@@ -1,3 +1,5 @@
+<img alt="interface-web" title="interface-web" src=".github/assets/gifs/portfolio.gif" width="900"/>
+
 ## Sobre
 O projeto tem o objetivo de representar um modelo de portfólio.
 Os icons utilizados nesse projeto são de origem do site https://icons8.com/.
